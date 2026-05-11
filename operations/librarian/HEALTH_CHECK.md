@@ -2,13 +2,13 @@
 
 Wiki health report. Populated by `scripts/librarian/health_check.py`.
 
-Last check: 2026-05-11 22:49
+Last check: 2026-05-12 00:22
 
 ## Summary
 
-- **Total issues:** 43
+- **Total issues:** 42
 - **Critical:** 38
-- **Warnings:** 5
+- **Warnings:** 4
 
 ## Critical Issues
 
@@ -57,7 +57,6 @@ Last check: 2026-05-11 22:49
 - Unreviewed proposal: `wiki/identity/proposed_style_updates.md`
 - Unreviewed proposal: `wiki/aesthetics/voice/proposed_voice_style_card_updates.md`
 - Unreviewed proposal: `wiki/aesthetics/visual/proposed_visual_style_bible_updates.md`
-- Possible broken link in `wiki/README.md`: [[wiki links]]
 
 ## Checks Performed
 

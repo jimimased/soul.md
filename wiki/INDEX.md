@@ -2,7 +2,7 @@
 
 Master index for the Rupture System knowledge base. Updated by `scripts/librarian/compile_indexes.py`.
 
-Last compiled: 2026-05-11 22:49
+Last compiled: 2026-05-12 00:22
 
 ## Identity
 

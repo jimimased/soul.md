@@ -3,12 +3,12 @@ type: index
 subject: theory
 status: initial
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Theory Index
 
-Last compiled: 2026-05-11 22:49
+Last compiled: 2026-05-12 00:22
 
 ## Concept Cards
 
