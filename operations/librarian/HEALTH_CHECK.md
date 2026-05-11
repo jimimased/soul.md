@@ -2,12 +2,12 @@
 
 Wiki health report. Populated by `scripts/librarian/health_check.py`.
 
-Last check: 2026-05-12 00:22
+Last check: 2026-05-12 00:47
 
 ## Summary
 
-- **Total issues:** 42
-- **Critical:** 38
+- **Total issues:** 29
+- **Critical:** 25
 - **Warnings:** 4
 
 ## Critical Issues
@@ -25,19 +25,6 @@ Last check: 2026-05-12 00:22
 - Empty style bible field: `aesthetic_corpus/voice/VOICE_STYLE_CARD.md` → manifesto register
 - Empty style bible field: `aesthetic_corpus/voice/VOICE_STYLE_CARD.md` → forbidden voice traits
 - Empty style bible field: `aesthetic_corpus/voice/VOICE_STYLE_CARD.md` → synthetic disclosure rule
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → core visual identity
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → recurring motifs
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → colour palette tendencies
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → composition rules
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → typography feel
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → cinematic references without copying artists
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → image prompt vocabulary
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → forbidden visual drift
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → post image format
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → video still format
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → album/track art format
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → Pacific Commons institutional visual mode
-- Empty style bible field: `aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md` → Rupture Host mythic visual mode
 - Empty style bible field: `aesthetic_corpus/music/MUSIC_STYLE_BIBLE.md` → sonic identity
 - Empty style bible field: `aesthetic_corpus/music/MUSIC_STYLE_BIBLE.md` → rhythmic identity
 - Empty style bible field: `aesthetic_corpus/music/MUSIC_STYLE_BIBLE.md` → harmonic tendencies

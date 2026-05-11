@@ -1,7 +1,7 @@
 ---
 type: proposed_updates
 target_file: aesthetic_corpus/visual/VISUAL_STYLE_BIBLE.md
-status: pending_review
+status: approved_and_applied
 created: 2026-05-11
 updated: 2026-05-11
 requires_human_review: true
