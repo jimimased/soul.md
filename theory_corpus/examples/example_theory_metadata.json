@@ -1,0 +1,20 @@
+{
+  "id": "th001",
+  "title": "Intelligence and Spirit",
+  "author": "Reza Negarestani",
+  "year": "2018",
+  "source_type": "book",
+  "file_path": "",
+  "source_link": "",
+  "discipline": ["philosophy"],
+  "core_concepts": ["space of reasons"],
+  "related_project_files": ["CANON.md"],
+  "why_it_matters": "Provides foundation for revisable canon.",
+  "key_quotes": [],
+  "summary_file": "",
+  "concept_cards": [],
+  "algorithm_dependencies": [],
+  "citation_required": true,
+  "sensitivity": "low",
+  "notes": "Example placeholder."
+}
